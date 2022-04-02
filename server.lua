@@ -1,4 +1,3 @@
-
 local whitelist={
     "steam:5555",
     "steam:110000113c5b36d",
